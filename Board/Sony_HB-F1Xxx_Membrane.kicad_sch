@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "afa97a65-6741-485a-b528-0fab2f4e7b40")
+	(paper "A4")
+	(lib_symbols)
+	(text "Sony F1-XDJ Membrane"
+		(exclude_from_sim no)
+		(at 25.4 14.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dafaad2c-0df6-4265-adf9-deedbe585566")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
