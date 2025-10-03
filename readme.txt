@@ -1,11 +1,8 @@
 --------------------------------------------------------------------------------
-Sony F1-XV/XD/XDJ Keyboard Membrane
+Sony F1-XV/XD/XDJ Keyboard Membrane Rev1.1
 Copyright (c) 2025 RBSC
-Last updated: 23.08.2025
+Last updated: 03.10.2025
 --------------------------------------------------------------------------------
-
-WARNING! This memberane has not been produced yet and may contain minor issues in the placement of holes or pads.
-WARNING! Order at your own risk!
 
 About
 -----

@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 5,
-    "active_layer_preset": "All Layers",
+    "active_layer": 1,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "F1-XDJ_Membrane.kicad_prl",
+    "filename": "Sony_HB-F1Xxx_Membrane.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
